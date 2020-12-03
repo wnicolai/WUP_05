@@ -57,3 +57,4 @@ fisher.test(table1)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+Looking at the data, it seems that if a patient with Aids, the drug was more effective that the placebo. But if the patient did NOT have Aids, the placebo was more effective than the drug.  
